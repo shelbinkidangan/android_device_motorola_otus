@@ -1,0 +1,5 @@
+#============= vold ==============
+allow vold userdata_block_device:blk_file { read write ioctl open getattr };
+allow vold persist_file:dir { getattr open read };
+allow vold firmware_file:dir search;
+allow vold firmware_file:file { getattr open };
