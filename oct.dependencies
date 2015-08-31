@@ -10,6 +10,5 @@
   {
     "repository": "sultanqasim/android_kernel_motorola_otus",
     "target_path": "kernel/motorola/msm8610",
-    "remote": "github"
   }
 ]
