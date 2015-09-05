@@ -192,10 +192,6 @@ PRODUCT_PACKAGES += \
     libQWiFiSoftApCfg \
     libqsap_sdk
 
-# Doze
-PRODUCT_PACKAGES += \
-    MotoDoze
-
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.sf.lcd_density=240
 

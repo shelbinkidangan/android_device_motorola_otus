@@ -1,3 +1,1 @@
 add_lunch_combo orion_otus-userdebug
-add_lunch_combo tipsy_otus-userdebug
-add_lunch_combo slim_otus-userdebug
